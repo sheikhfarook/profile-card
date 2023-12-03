@@ -1,9 +1,9 @@
-// import "./App.css";
+import ProfileCards from "./components/profile_cards";
 
 function App() {
   return (
     <>
-      <div></div>
+      <ProfileCards />
     </>
   );
 }
